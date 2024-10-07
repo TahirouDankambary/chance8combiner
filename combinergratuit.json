@@ -1,0 +1,16 @@
+{
+  "coupons": [
+    {
+      "title": "Code Coupon du Jour",
+      "value": "DUSOIR"
+    },
+    {
+      "title": "Code Coupon Tennis",
+      "value": "TENNISDUJOUR"
+    },
+    {
+      "title": "Code Coupon Mixte",
+      "value": "MIXHKCAJ"
+    }
+  ]
+}
